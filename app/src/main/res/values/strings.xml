@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTubeApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playlist">playlist</string>
+    <string name="back">Back</string>
+</resources>
